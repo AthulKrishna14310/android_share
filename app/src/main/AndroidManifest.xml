@@ -55,10 +55,7 @@
             android:label="@string/text_fileExplorer"
             android:theme="@style/Theme.TrebleShot.NoActionBar.StaticStatusBar" />
 
-        <activity
-            android:name=".activity.TextStreamActivity"
-            android:label="@string/text_textStream"
-            android:theme="@style/Theme.TrebleShot.NoActionBar.StaticStatusBar" />
+
 
         <activity
             android:name=".activity.ConnectionManagerActivity"
