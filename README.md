@@ -48,3 +48,4 @@ worked with Weblate, where you will find the [TrebleShot localization](https://h
 
 
 This app is licensed under GNU Public License version 2.0 or later version.
+# OriginalImageShare
